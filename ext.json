@@ -1,10 +1,10 @@
 {
-  "identifier": "org.standardnotes.markdown-basic-local",
-  "name": "Markdown Basic - Local",
+  "identifier": "org.standardnotes.markdown-basic-cust",
+  "name": "Markdown Basic - Customized",
   "content_type": "SN|Component",
   "area": "editor-editor",
   "version": "1.0.0",
-  "description": "Write Markdown in private",
+  "description": "Write Markdown in with some extra syntactic sugar",
   "url": "http://localhost:8004/dist/index.html",
   "thumbnail_url": "http://localhost:8004/dist/favicon.png"
 }
